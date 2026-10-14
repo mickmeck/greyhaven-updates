@@ -1,0 +1,39 @@
+{
+  "music": {
+    "provider": "Suno",
+    "tracks": {
+      "desk": {
+        "title": "Greyhaven – Regen am Fenster",
+        "instrumental": true
+      },
+      "lab": {
+        "title": "Greyhaven – Spurenraum",
+        "instrumental": true
+      },
+      "field": {
+        "title": "Greyhaven – Einsatzleitung",
+        "instrumental": true
+      },
+      "medical": {
+        "title": "Greyhaven – Mensch hinter der Spur",
+        "instrumental": true
+      },
+      "digital": {
+        "title": "Greyhaven – Zwischen den Daten",
+        "instrumental": true
+      }
+    }
+  },
+  "characters": "Licensed Renderpeople scans; only rendered films and portrait pixels are distributed.",
+  "childAnatomy": "MakeHuman core assets, CC0. MPFB is used privately as a production tool; its source is not part of the player.",
+  "childCostume": {
+    "title": "Knitted_Sweater_01",
+    "author": "Mindfront (Sweden)",
+    "source": "https://www.makehumancommunity.org",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Fitted to the age-specific fictional character; navy blue colour, supplied knit normal map retained"
+  },
+  "surfaces": "Poly Haven CC0 surfaces and props",
+  "voice": "Commissioned German ElevenLabs recordings; no runtime account access"
+}
